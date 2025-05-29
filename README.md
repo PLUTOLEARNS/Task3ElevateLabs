@@ -51,8 +51,8 @@ A comprehensive vulnerability assessment of Metasploitable2 using Tenable Nessus
 
 ## Report Files
 
-- [`my-first-network-scan-_audh5f.pdf`](./my-first-network-scan-_audh5f.pdf) - Network vulnerability scan  
-- [`Web-Application-Scan-Task-3_30j7wg.pdf`](./Web-Application-Scan-Task-3_30j7wg.pdf) - Web application assessment
+- `my-first-network-scan-_audh5f.pdf`-Network vulnerability scan  
+- `Web-Application-Scan-Task-3_30j7wg.pdf`- Web application assessment
 
 ---
 
